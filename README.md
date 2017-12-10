@@ -8,3 +8,12 @@ $ python --version
 
 $ npm install
 ```
+
+## Output Api Documents
+```
+# Edit your API document
+$ vim {API_Name}.md
+....
+
+$ npm run api:output
+```
